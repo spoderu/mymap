@@ -900,6 +900,19 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":12,
+         "firstgid":321,
+         "image":"FH_Assets.png",
+         "imageheight":480,
+         "imagewidth":384,
+         "margin":0,
+         "name":"FH_Assets",
+         "spacing":0,
+         "tilecount":180,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
